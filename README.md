@@ -24,7 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./final-result/final-result-web.png)
+![](./final-result/final-result-mobile.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -87,9 +88,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Ellie Roy]](https://www.your-site.com)
+- Website - [Ellie Roy](https://www.your-site.com)
 - Frontend Mentor - [@ellieroy](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
-I used the [solution](https://www.frontendmentor.io/solutions/profile-card-component-5WYuqW2jg) of Hugo Alberto. 
+I used the [solution](https://www.frontendmentor.io/solutions/profile-card-component-5WYuqW2jg) written by Hugo Alberto. 
