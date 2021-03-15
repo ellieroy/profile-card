@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-    min-height: 100vh;
+    min-height: 97vh; /* slightly less than 100vh so that attribution shows */
     display: flex;
     justify-content: center;
     align-items: center;
