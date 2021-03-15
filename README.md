@@ -23,7 +23,10 @@ The challenge was to recreate the design of a website based on .jpg images.
 
 ### Screenshot
 
-<img src="./final-result/final-result-web.png" width="425"/> <img src="./final-result/final-result-mobile.png" width="425"/> 
+<p float="left">
+  <img src="./final-result/final-result-web.png" width="425"/> 
+  <img src="./final-result/final-result-mobile.png" width="425"/> 
+</p>
 
 ### Links
 
