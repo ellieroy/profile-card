@@ -5,8 +5,8 @@ This is my solution to the [Profile card component challenge on Frontend Mentor]
 ### Screenshot
 
 <p float="left">
-  <img src="./final-result/final-result-web.png" width="600"/> 
-  <img src="./final-result/final-result-mobile.png" width="200"/> 
+  <img src="./screenshots/screenshot-web.png" width="600"/> 
+  <img src="./screenshots/screenshot-mobile.png" width="200"/> 
 </p>
 
 ### Links
